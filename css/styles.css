@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /*faz com que todos os elemnetos do projeto não passe do limite do seu elemnto pai*/
+  font-family: Helvetica;
+}
+
+body {
+  background-color: #333;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 3em;
+}
